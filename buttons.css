@@ -1,0 +1,47 @@
+
+.buttons{
+    margin-left: 557px;
+}
+.all-btn:hover{
+    background-color: var(--clr-gold);
+    color: white;
+    
+    
+}
+.breakfast-btn:hover{
+    background-color: var(--clr-gold);
+    color: white;
+    
+    
+   
+    
+}
+.lunch-btn:hover{
+    background-color: var(--clr-gold);
+    color: white;
+    
+    
+}.shakes-btn:hover{
+    background-color: var(--clr-gold);
+    color: white;
+    
+    
+}.dinner-btn:hover{
+    background-color: var(--clr-gold);
+    color: white;
+    
+    
+}
+.all-btn,.breakfast-btn,.lunch-btn,.shakes-btn,.dinner-btn{
+    width: auto;
+    height: 35px;
+    border-radius: 7px;
+    background: transparent;
+    cursor: pointer;
+    border-color: var(--clr-gold);
+    border-style: solid;
+    color: var(--clr-gold);
+    font-size: 18px;
+    margin-left: 13px;
+    
+}

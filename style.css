@@ -1,9 +1,19 @@
+:root {
+    --clr-gold: #9c8503b6; 
+  }
+
+body{
+    display: flex;
+}
 h2{
     font-size: 40px;
-    margin-left: 620px;
+    margin-left: 660px;
     color:rgb(1, 41, 54);
     margin-top: 0px;
     font-weight: bold;
+    display: inline-block; 
+    border-bottom: 4px solid var(--clr-gold);; 
+    padding-bottom: 2px;
    
 }
 
