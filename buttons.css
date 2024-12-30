@@ -38,6 +38,8 @@
 }
 .all-btn,.breakfast-btn,.lunch-btn,.shakes-btn,.dinner-btn{
     width: auto;
+    padding-right: 5px;
+    padding-left: 5px;
     height: 35px;
     border-radius: 7px;
     background: transparent;
